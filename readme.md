@@ -1,4 +1,4 @@
-#Fibonacci Heap
+Fibonacci Heap
 ---
 
 The goal of this project to create a Fibonacci Heap implementation in python. 
